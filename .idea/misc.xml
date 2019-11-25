@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring-task/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/quartz/pom.xml" />
+        <option value="$PROJECT_DIR$/elastic-job/pom.xml" />
+        <option value="$PROJECT_DIR$/xxl-job-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/xxl-job/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>

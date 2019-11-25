@@ -1,0 +1,12 @@
+server:
+  port: 8090
+spring:
+  application:
+    name: elastic-job
+  main:
+    allow-bean-definition-overriding: true
+elastic:
+  job:
+    zk:
+      serverLists: 127.0.0.1:2888
+      namespace: elastic_job
