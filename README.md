@@ -1,2 +1,5 @@
-# crontab-learning
-我的定时任务  quartz   spring-task  elastic-job  xxl-job
+# 定时任务
+springtask 下是spring原生的定时任务
+quartz 下是分布式群集定时任务的基础，很多定时任务的框架思想都是从这里来的，这里并没有解决集群内多次重复执行问题，需要自己处理
+elastic-job 下是当当开源的一个定时任务，里面有一些简单的使用demo
+xxl-job 是大众点评的一个开源项目,里面有一些简单的demo应用
